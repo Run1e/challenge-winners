@@ -1,0 +1,28 @@
+---------------------------
+Anagrams found!
+---------------------------
+Found anagrams: gapers gasper pagers parges sparge. Try again?
+---------------------------
+Yes   No   
+---------------------------
+---------------------------
+Anagrams found!
+---------------------------
+Found anagrams: alerting altering integral relating tanglier. Try again?
+---------------------------
+Yes   No   
+---------------------------
+---------------------------
+Anagrams found!
+---------------------------
+Found anagrams: aspire paries spirea. Try again?
+---------------------------
+Yes   No   
+---------------------------
+---------------------------
+Anagrams found!
+---------------------------
+Found anagrams: apers apres asper pares parse pears prase presa rapes reaps spare. Try again?
+---------------------------
+Yes   No   
+---------------------------
